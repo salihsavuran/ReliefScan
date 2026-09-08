@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen
+venv/
+.venv/
+env/
+
+# Testläufe & Projektordner (optional, falls lokale Scans privat bleiben sollen)
+projekte/
+*.png
+test-scan1-with-ele.csv
+
+# VS Code & Betriebssystem
+.vscode/
+.DS_Store
+Thumbs.db
